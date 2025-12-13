@@ -1,0 +1,940 @@
+fileFormatVersion: 2
+guid: 8b35b955030be5e46aa32618263c562d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2875216999437821420
+    second: Mole Run_PS_0
+  - first:
+      213: -7634723788372757638
+    second: Mole Run_PS_1
+  - first:
+      213: -5440046827914466724
+    second: Mole Run_PS_2
+  - first:
+      213: 260332577722737193
+    second: Mole Run_PS_3
+  - first:
+      213: 1977174133922637744
+    second: Mole Run_PS_4
+  - first:
+      213: 7991268513069374700
+    second: Mole Run_PS_5
+  - first:
+      213: -9182481307420596230
+    second: Mole Run_PS_6
+  - first:
+      213: 1217207348131367045
+    second: Mole Run_PS_7
+  - first:
+      213: 8899765431672801731
+    second: Mole Run_PS_8
+  - first:
+      213: 6209096113185462838
+    second: Mole Run_PS_9
+  - first:
+      213: -3848012089097067320
+    second: Mole Run_PS_10
+  - first:
+      213: -8076566740495542631
+    second: Mole Run_PS_11
+  - first:
+      213: 4969500855357721438
+    second: Mole Run_PS_12
+  - first:
+      213: 6585719888895450115
+    second: Mole Run_PS_13
+  - first:
+      213: 8316397883417477661
+    second: Mole Run_PS_14
+  - first:
+      213: 1318240629931023208
+    second: Mole Run_PS_15
+  - first:
+      213: 6372010181986497482
+    second: Mole Run_PS_16
+  - first:
+      213: 4190940766382918877
+    second: Mole Run_PS_17
+  - first:
+      213: 2437899792863166529
+    second: Mole Run_PS_18
+  - first:
+      213: 7887470530177019754
+    second: Mole Run_PS_19
+  - first:
+      213: 5885685643625071424
+    second: Mole Run_PS_20
+  - first:
+      213: -5376617059584731954
+    second: Mole Run_PS_21
+  - first:
+      213: 2846969810087386139
+    second: Mole Run_PS_22
+  - first:
+      213: 8531295783478922071
+    second: Mole Run_PS_23
+  - first:
+      213: 6640605669907672257
+    second: Mole Run_PS_24
+  - first:
+      213: -74380598607645223
+    second: Mole Run_PS_25
+  - first:
+      213: -1417955691809579290
+    second: Mole Run_PS_26
+  - first:
+      213: 5592373880843011679
+    second: Mole Run_PS_27
+  - first:
+      213: -7405569227611889087
+    second: Mole Run_PS_28
+  - first:
+      213: -756026088621412185
+    second: Mole Run_PS_29
+  - first:
+      213: 8854248592000800506
+    second: Mole Run_PS_30
+  - first:
+      213: 4684944173299275003
+    second: Mole Run_PS_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mole Run_PS_0
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2841
+        width: 720
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5e7af90a2d6e720800000000000000
+      internalID: 2875216999437821420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_1
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2806
+        width: 1660
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7331db3a230c0690800000000000000
+      internalID: -7634723788372757638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_2
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 2794
+        width: 1512
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aeaac8b321184b0800000000000000
+      internalID: -5440046827914466724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_3
+      rect:
+        serializedVersion: 2
+        x: 5141
+        y: 2806
+        width: 874
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92220a2a913ec9300800000000000000
+      internalID: 260332577722737193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_4
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 2806
+        width: 939
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ac873665507b10800000000000000
+      internalID: 1977174133922637744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_5
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 948
+        width: 1283
+        height: 1684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec93428f50b6ee60800000000000000
+      internalID: 7991268513069374700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_6
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 933
+        width: 1378
+        height: 1699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7e78ad6e5419080800000000000000
+      internalID: -9182481307420596230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_7
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 948
+        width: 1467
+        height: 1684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5888d5352a364e010800000000000000
+      internalID: 1217207348131367045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_8
+      rect:
+        serializedVersion: 2
+        x: 5523
+        y: 948
+        width: 1496
+        height: 1699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c98823d181528b70800000000000000
+      internalID: 8899765431672801731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_9
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 400
+        width: 333
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a9daa84042b2650800000000000000
+      internalID: 6209096113185462838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_10
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 349
+        width: 244
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4e5f1846d199ac0800000000000000
+      internalID: -3848012089097067320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_11
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 407
+        width: 277
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996570c47554aef80800000000000000
+      internalID: -8076566740495542631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_12
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 306
+        width: 215
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc89ac2b637f440800000000000000
+      internalID: 4969500855357721438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_13
+      rect:
+        serializedVersion: 2
+        x: 3991
+        y: 656
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c96d7a85d256b50800000000000000
+      internalID: 6585719888895450115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_14
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 405
+        width: 195
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12c8e310d7c96370800000000000000
+      internalID: 8316397883417477661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_15
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 353
+        width: 299
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b968b5ed45b4210800000000000000
+      internalID: 1318240629931023208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_16
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 405
+        width: 193
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac33a7a008ded6850800000000000000
+      internalID: 6372010181986497482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_17
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 349
+        width: 245
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc05f62c66392a30800000000000000
+      internalID: 4190940766382918877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_18
+      rect:
+        serializedVersion: 2
+        x: 5422
+        y: 340
+        width: 238
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1408b9fe1f825d120800000000000000
+      internalID: 2437899792863166529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_19
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 405
+        width: 195
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f209758ace57d60800000000000000
+      internalID: 7887470530177019754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_20
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 448
+        width: 144
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04383efb8e72ea150800000000000000
+      internalID: 5885685643625071424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_21
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 443
+        width: 163
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec49526554b6265b0800000000000000
+      internalID: -5376617059584731954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_22
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 448
+        width: 141
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c158855f7728720800000000000000
+      internalID: 2846969810087386139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_23
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 200
+        width: 178
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b8c087050456670800000000000000
+      internalID: 8531295783478922071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_24
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 443
+        width: 163
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccaa406cab282c50800000000000000
+      internalID: 6640605669907672257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_25
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 413
+        width: 179
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d57fc95d3fb7fef0800000000000000
+      internalID: -74380598607645223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_26
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 435
+        width: 73
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee527a9fc8625ce0800000000000000
+      internalID: -1417955691809579290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_27
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 443
+        width: 164
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5602da3a6a1c9d40800000000000000
+      internalID: 5592373880843011679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_28
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 345
+        width: 234
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14221ac16022a3990800000000000000
+      internalID: -7405569227611889087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_29
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 443
+        width: 163
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0faca274e0285f0800000000000000
+      internalID: -756026088621412185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_30
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 422
+        width: 143
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d53fbe2c90ea70800000000000000
+      internalID: 8854248592000800506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mole Run_PS_31
+      rect:
+        serializedVersion: 2
+        x: 5637
+        y: 443
+        width: 163
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf41a0a57e3440140800000000000000
+      internalID: 4684944173299275003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mole Run_PS_0: 2875216999437821420
+      Mole Run_PS_1: -7634723788372757638
+      Mole Run_PS_10: -3848012089097067320
+      Mole Run_PS_11: -8076566740495542631
+      Mole Run_PS_12: 4969500855357721438
+      Mole Run_PS_13: 6585719888895450115
+      Mole Run_PS_14: 8316397883417477661
+      Mole Run_PS_15: 1318240629931023208
+      Mole Run_PS_16: 6372010181986497482
+      Mole Run_PS_17: 4190940766382918877
+      Mole Run_PS_18: 2437899792863166529
+      Mole Run_PS_19: 7887470530177019754
+      Mole Run_PS_2: -5440046827914466724
+      Mole Run_PS_20: 5885685643625071424
+      Mole Run_PS_21: -5376617059584731954
+      Mole Run_PS_22: 2846969810087386139
+      Mole Run_PS_23: 8531295783478922071
+      Mole Run_PS_24: 6640605669907672257
+      Mole Run_PS_25: -74380598607645223
+      Mole Run_PS_26: -1417955691809579290
+      Mole Run_PS_27: 5592373880843011679
+      Mole Run_PS_28: -7405569227611889087
+      Mole Run_PS_29: -756026088621412185
+      Mole Run_PS_3: 260332577722737193
+      Mole Run_PS_30: 8854248592000800506
+      Mole Run_PS_31: 4684944173299275003
+      Mole Run_PS_4: 1977174133922637744
+      Mole Run_PS_5: 7991268513069374700
+      Mole Run_PS_6: -9182481307420596230
+      Mole Run_PS_7: 1217207348131367045
+      Mole Run_PS_8: 8899765431672801731
+      Mole Run_PS_9: 6209096113185462838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
