@@ -1,2 +1,2 @@
 # MoleRun
-Mole Run adalah game endless runner berbasis Unity di mana pemain mengendalikan seekor mole yang berlari tanpa henti sambil menghindari rintangan. Mekanik utama yang membedakan game ini adalah kemampuan karakter untuk menggali dan masuk ke dalam tanah sebagai cara unik untuk menghindari bahaya.
+Mole Run merupakan game 2D endless runner yang dikembangkan menggunakan Unity dan C#. Game ini menambahkan mekanik unik berupa kemampuan karakter untuk masuk ke dalam tanah sebagai strategi menghindari rintangan. Fokus utama pengembangan berada pada kontrol karakter yang responsif, sistem spawning rintangan, serta pengaturan difficulty seiring waktu bermain.
